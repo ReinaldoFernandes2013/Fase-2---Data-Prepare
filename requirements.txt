@@ -1,0 +1,11 @@
+# Camada de Interface e Storytelling (Reinaldo)
+streamlit>=1.30.0
+plotly>=5.15.0
+
+# Manipulação de Dados e Integração Local
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Conectores de Banco de Dados NoSQL (Caio)
+pymongo>=4.5.0
+redis>=5.0.0

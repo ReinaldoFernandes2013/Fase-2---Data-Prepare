@@ -1,0 +1,24 @@
+# Ambiente Virtual Local
+.venv/
+venv/
+ENV/
+env/
+
+# Cache do Python e Compilações
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Bloqueio de Bases de Dados Pesadas Locais
+data/
+*.csv
+*.parquet
+*.json
+
+# Configurações Locais de Sistema e IDE
+.vscode/
+.idea/
+.DS_Store
